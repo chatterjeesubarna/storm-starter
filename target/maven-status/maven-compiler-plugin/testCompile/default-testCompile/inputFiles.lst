@@ -1,0 +1,9 @@
+/home/suchatte/workspace/storm-starter/test/jvm/storm/starter/bolt/RollingCountBoltTest.java
+/home/suchatte/workspace/storm-starter/test/jvm/storm/starter/tools/MockTupleHelpers.java
+/home/suchatte/workspace/storm-starter/test/jvm/storm/starter/bolt/TotalRankingsBoltTest.java
+/home/suchatte/workspace/storm-starter/test/jvm/storm/starter/tools/SlidingWindowCounterTest.java
+/home/suchatte/workspace/storm-starter/test/jvm/storm/starter/bolt/IntermediateRankingsBoltTest.java
+/home/suchatte/workspace/storm-starter/test/jvm/storm/starter/tools/RankingsTest.java
+/home/suchatte/workspace/storm-starter/test/jvm/storm/starter/tools/NthLastModifiedTimeTrackerTest.java
+/home/suchatte/workspace/storm-starter/test/jvm/storm/starter/tools/RankableObjectWithFieldsTest.java
+/home/suchatte/workspace/storm-starter/test/jvm/storm/starter/tools/SlotBasedCounterTest.java
